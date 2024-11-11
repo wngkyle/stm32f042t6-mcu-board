@@ -1,3 +1,4 @@
 ### STM32F042T6 Custom MCU Board
 
-![Microcontroller_1](https://github.com/user-attachments/assets/b9a8f3d9-b30d-43f5-bc8a-4d06b8f01954)
+<img width="670" alt="board-top-view" src="https://github.com/user-attachments/assets/cf872dc4-5954-4328-937c-c0ec66c37d80">
+
